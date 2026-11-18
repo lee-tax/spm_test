@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TaurusxAdsSDK",
-            url: "https://github.com/lee-tax/spm_test/releases/download/1.2.0/TaurusxAdsSDK.zip",
-            checksum: "923ed8712a7843894e95f52c05e7b9ecb16ca26b9bef0d98dddde38ec9d7050e"
+            url: "https://github.com/lee-tax/spm_test/releases/download/1.3.0/TaurusxAdsSDK.zip",
+            checksum: "f00283c16699127b14dd116ef28d7d76cb4660347f4a5cd3dc93e060f6db2820"
         )
     ]
 )
